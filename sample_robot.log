@@ -1,0 +1,7 @@
+2026-05-31 08:01:12 INFO  boot: robot arm initialized
+2026-05-31 08:02:03 WARN  battery: level 18%, below threshold
+2026-05-31 08:02:40 ERROR motor.left: overcurrent detected, code E207
+2026-05-31 08:03:11 INFO  vision: camera stream ok
+2026-05-31 08:04:55 ERROR network: lost connection to control server (timeout)
+2026-05-31 08:05:02 ERROR motor.left: overcurrent detected, code E207
+2026-05-31 08:06:30 WARN  temperature: CPU 78C

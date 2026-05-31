@@ -1,0 +1,20 @@
+# Secrets — TUYỆT ĐỐI không commit
+.token.txt
+.env
+*.key
+*credentials*.json
+
+# Virtualenv
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs / runtime output
+server.out
+server.log
+*.log
+# giữ lại file log mẫu để demo
+!sample_robot.log
